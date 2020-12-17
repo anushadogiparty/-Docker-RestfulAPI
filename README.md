@@ -1,7 +1,7 @@
 # RESTful-web-service using DOCKER container
 
 Created a Python RESTful services using Flask and use docker to run this application.                              
-First, docker need to be installed. Link: https://docs.docker.com/toolbox/toolbox_install_mac/                  
+First, docker needs to be installed and use the link inorder to install. Link: https://docs.docker.com/toolbox/toolbox_install_mac/                  
 
 ## Steps
 1. Get inside the app folder in terminal                          
